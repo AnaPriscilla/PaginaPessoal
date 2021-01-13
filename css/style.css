@@ -150,7 +150,38 @@ a {
     transition: .5s;
 }
 
+/* Responsivo */
+@media (max-width: 1024px) {
+    #topo {
+        width: 95%;
+    }
 
+    .topo-botao {
+        display: inline-flex; 
+    }
+   
+    #botao-CV {
+        display: inline-flex;
+    }
+
+   
+    
+}
+
+@media (max-width: 650px) {
+    #topo {
+        width: 95%;
+    }
+
+    .topo-botao {
+        display: inline-flex; 
+    }
+   
+    #botao-CV {
+        display: inline-flex;
+    }
+    
+}
 
 
 
