@@ -185,7 +185,7 @@ a {
     }
    
     #botao-CV {
-        display: flex;
+        display: inline-flex;
     }
     
 }
